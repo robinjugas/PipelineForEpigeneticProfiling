@@ -1,0 +1,13 @@
+reference_folder: /home/user/folder #path to folder with reference fasta fike
+genome_fasta: hg19.fa.gz # reference FASTA  genome file
+bed_file: AgilentMethylSeq.bed # filename of BED file of methyl capture targets
+
+samples: #list the name of samples without suffixes
+    - SAMPLE1
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+   
